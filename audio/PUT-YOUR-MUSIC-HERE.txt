@@ -1,0 +1,9 @@
+Place your licensed background music file in this folder.
+
+File name expected by default: background-music.mp3
+(You can change the name in js/script.js -> CONFIG.musicFile)
+
+Requirements:
+- Use only music you own or that is properly licensed.
+- The site never autoplays with sound — the guest presses play.
+- If the file is missing, the music button hides itself automatically.
